@@ -1,0 +1,1 @@
+/var/www/html/mage2.1.7/vendor/magento/module-paypal/view/adminhtml/web/js/rules.js

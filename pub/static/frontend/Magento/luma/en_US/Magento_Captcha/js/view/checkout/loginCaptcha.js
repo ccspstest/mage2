@@ -1,0 +1,1 @@
+/var/www/html/mage2.1.7/vendor/magento/module-captcha/view/frontend/web/js/view/checkout/loginCaptcha.js
